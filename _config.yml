@@ -6,11 +6,11 @@ baseurl:            ""
 url:                "https://cwj0321.github.io"
 
 # Social Profiles
-twitter_username:   
+twitter_username:   NULL
 github_username:    cwj0321
-facebook_username: 
+facebook_username: NULL
 instagram_username: woongjun_choi 
-linkedin_username:
+linkedin_username: NULL
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
