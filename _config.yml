@@ -1,15 +1,15 @@
-title:              Clean Blog
+title:              JUN’s BLOG
 email:              cwj0852@gmail.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+description:        공부 블로그
+author:             C.W.J
 baseurl:            ""
 url:                "https://cwj0321.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
+twitter_username:   
+github_username:    cwj0321
+facebook_username: 
+instagram_username: woongjun_choi 
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
