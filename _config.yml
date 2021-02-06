@@ -1,5 +1,5 @@
-baseurl: " " 
-url: "https://cwj0321.github.io/”
+baseurl: "" 
+url: "https://cwj0321.github.io/"
 
 # Build settings
 markdown: kramdown
